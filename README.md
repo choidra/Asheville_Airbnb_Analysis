@@ -2,6 +2,10 @@
 [https://www.analystbuilder.com/projects/asheville-airbnb-listings-analysis-hQNaU](https://www.analystbuilder.com/projects/asheville-airbnb-listings-analysis-hQNaU)
 
 
+### SQL Analysis:
+[https://github.com/choidra/Asheville_Airbnb_Analysis/blob/main/AirBnB_Analytics.sql](https://github.com/choidra/Asheville_Airbnb_Analysis/blob/main/AirBnB_Analytics.sql)
+
+
 ### Overall Findings:
 - Listing 1339091513653409760 is a bit of an outlier in terms of price ($6,846), as it is $4,546 more expensive than the second most expensive listing.
     - This listing was by Asheville River Cabins (Host ID: 477251437).  This host has 7 other listings, with listing 1339091513653409760 being priced significantly higher than their other 7 listings.
